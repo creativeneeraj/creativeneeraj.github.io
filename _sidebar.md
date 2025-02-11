@@ -3,3 +3,5 @@
 - [Configuration](configuration.md)
 - [Usage](usage.md)
 - [API Reference](api.md)
+- [Contributing](contributing.md)
+- [License](license.md)
